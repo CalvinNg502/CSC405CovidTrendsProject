@@ -13,6 +13,8 @@ This is the project repository for Team CCK's CSC405 project. Group members incl
 
 The organization of this repository is simple. There is the Data directory, and there are the individual parts directories. Data contains all of our datasets, both base sets and those we've merged through python. Parts directories (Part I, Part II, etc) contains the group and individual jupyter notebooks along with pdfs of these notebooks for each stage of the project.
 
+As mentioned in this repository's description, this is **NOT** the original repository! The original became bloated with extremely large files due to merging .csv files and getting an exponentially large .csv file in return. We have attempted to clean the repository, but have been unsuccessful, so we have resorted to deleting it and creating this repository. The most recent version of our work has been properly preserved, but unfortunately, the commit history has not, so it is impossible to discern which parts were written by what person. In general, each person was responsible for their own individual notebook, and the group notebooks were worked on as a team. This project was worked on from January, 2023, to April, 2023.
+
 ## Technologies
 
 - dash 2.9.3
